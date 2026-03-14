@@ -55,7 +55,7 @@ Insights:
 
 ## Executive Overview
 
-<img src="images/img_executive_overview.png" width="900">
+<img src="img_executive_overview.png" width="900">
 
 ## Product Performance
 
