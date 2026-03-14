@@ -59,11 +59,11 @@ Insights:
 
 ## Product Performance
 
-<img src="images/img_product_performance.png" width="900">
+<img src="img_product_performance.png" width="900">
 
 ## Customer Insights
 
-<img src="images/img_customer_insights.png" width="900">
+<img src="img_customer_insights.png" width="900">
 
 ---
 ## Download Power BI File
